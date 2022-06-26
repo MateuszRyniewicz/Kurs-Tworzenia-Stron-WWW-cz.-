@@ -1,0 +1,14 @@
+body {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	transition: all 1s;
+	appearance: none;
+	background-color: #fff;
+}
+
+p {
+	font-family: sans-serif;
+	font-size: 48px;
+	color: #000;
+}
